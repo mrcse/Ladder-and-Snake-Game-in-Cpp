@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1556442658 source:c:\users\jamshid ali\desktop\qw\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+
+1556442658 source:c:\users\jamshid ali\desktop\2nd semester\computer programming\extra c++\loops and function\ladder and snake\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+
